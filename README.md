@@ -1,0 +1,2 @@
+# RTKQueryThunksExample
+Created with CodeSandbox
